@@ -1,0 +1,92 @@
+
+@font-face {
+    font-family: "Happy_monkey";
+    src: url("HappyMonkey-Regular.ttf");
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    background: linear-gradient(#a2d2ff,#EFB0C9);
+    font-family: "Happy_monkey","san-serif";
+    color: white;
+    text-shadow: 0 0 1px black;
+}
+
+#image {
+    width: 150px;
+    height: 120px;
+    border-radius: 100%;
+    border: 5px solid #EFB0C9;
+}
+
+#bdate, #bage {
+    background: #EFB0C9;
+    padding: 2px 12px;
+    border-radius: 10px;
+    margin: 0;
+}
+#bage {
+    margin: 15px 0 10px 0;
+}
+
+
+
+
+.gift-wallpaper {
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbQ16rNs1SXid_OoGBlswj8qRAkAjoHlyKkg&s") no-repeat;
+    background-size: 350px 400px;
+    width: 350px;
+    height: 400px;
+    border: 8px solid white;
+    border-radius: 10px;
+}
+#gify1:hover {
+    background: url("BVLZ.gif");
+    background-size: 350px 400px;
+    width: 350px;
+    height: 400px;
+    
+}
+
+#gify2:hover {
+    background: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlhNGwxd20yaWt0ZWJmemU4dTQybW54Z3gyMTc0aGdsbWJ1cWphayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n7KBLYG0Yqs0aZa4iP/giphy.gif");
+    background-size: 350px 400px;
+    width: 350px;
+    height: 400px;
+}
+
+#gify3:hover {
+    background: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWhnMzl6a2ttbnRhbmw1d2FiOWx3a3BiOXZub25tZXF2MG92eTJkcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btXkbsV26U95Uly/giphy.gif");
+    background-size: 350px 400px;
+    width: 350px;
+    height: 400px;
+}
+
+#gify4:hover {
+    background: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHpuNnRmMjZ1cGFhbGNtdXFlODRhMmhmcGEycTRqb29vMDVpdTA2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lms6kkPkZLjJ9Mhykc/giphy.gif");
+    background-size: 350px 400px;
+    width: 350px;
+    height: 400px;
+}
+
+#gify5:hover {
+    background: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExandjenFyZ3VuZHdhc3FwNHBrZDJoMnRqMHhhZ2pxM2N3aWQxbXJ3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO6qJiXajN0TyDu/giphy.gif");
+    background-size: 350px 400px;
+    width: 350px;
+    height: 400px;
+}
+
+#footer {
+    margin-bottom: 15px;
+    width: 400px;
+}
+
+
+.add-margins {
+    margin-top: 60px;
+    font-style: italic;
+}
+
